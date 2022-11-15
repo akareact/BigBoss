@@ -1,0 +1,59 @@
+/*title color - #fb3222 
+  extras - #00c6f0 , #363638, #1253d8
+*/
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  background: linear-gradient(-45deg, #1253d8, #363638, #010e11, #fb3222);
+  background-size: 200% 200%;
+  animation: gradient 15s ease infinite;
+}
+.main-header {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  height: 150px;
+  padding: 50px;
+  font-family: "Marhey", cursive;
+  font-family: "Rubik Bubbles", cursive;
+}
+
+img {
+  max-width: 100%;
+  max-height: 100%;
+  object-fit: cover;
+}
+
+#title {
+  color: #fb3222;
+  font-weight: 400;
+  font-size: 60px;
+  margin-left: 10px;
+}
+
+.content {
+  display: flex;
+  flex-direction: row;
+  justify-items: flex-start;
+  align-items: flex-start;
+  padding: 10px;
+}
+
+.contestant {
+}
+
+@keyframes gradient {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}
