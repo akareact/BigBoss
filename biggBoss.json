@@ -1,0 +1,207 @@
+{
+  "AbduRozik": {
+    "profession": "SocialMediaStar",
+    "age": "19",
+    "friends": [
+      "SajidKhan",
+      "MCStan",
+      "ShivThakare",
+      "NimritKaur",
+      "GoriNagori"
+    ],
+    "foes": ["ArchanaGautam"],
+    "fanRating": "10",
+    "salmansirFav": "true",
+    "inGame": "true",
+    "captaincyDays": "8",
+    "nominations": "1"
+  },
+  "SajidKhan": {
+    "profession": "director",
+    "age": "45",
+    "friends": ["AbduRozik", "MCStan", "ShivThakare", "NimritKaur"],
+    "foes": [],
+    "nominations": "1",
+    "fanRating": "10",
+    "salmansirFav": "false",
+    "inGame": "true",
+    "captaincyDays": "0"
+  },
+  "AnkitGupta": {
+    "profession": "Actor",
+    "age": "30",
+    "friends": ["PriyankaChoudhary"],
+    "foes": [],
+    "nominations": "0",
+    "fanRating": "8",
+    "salmansirFav": "true",
+    "inGame": "true",
+    "captaincyDays": "0"
+  },
+  "PriyankaChoudhary": {
+    "profession": "Actress",
+    "age": "30",
+    "friends": ["AnkitGupta"],
+    "foes": [],
+    "nominations": "1",
+    "fanRating": "5",
+    "salmansirFav": "false",
+    "inGame": "true",
+    "captaincyDays": "0"
+  },
+  "MCStan": {
+    "profession": "Rapper",
+    "age": "19",
+    "friends": [
+      "SajidKhan",
+      "AbduRozik",
+      "ShivThakare",
+      "SoundaryaSharma",
+      "GoriNagori"
+    ],
+    "foes": [],
+    "nominations": "2",
+    "fanRating": "10",
+    "salmansirFav": "true",
+    "inGame": "true",
+    "captaincyDays": "0"
+  },
+  "ArchanaGautam": {
+    "profession": "Actress",
+    "age": "30",
+    "friends": [],
+    "foes": [
+      "SajidKhan",
+      "MCStan",
+      "AbduRozik",
+      "NimritKaur",
+      "GoriNagori",
+      "ShivThakare",
+      "PriyankaChoudhary",
+      "AnkitGupta",
+      "ShalinBhanot",
+      "SumbulTouqeerKhan"
+    ],
+    "nominations": "2",
+    "fanRating": "1",
+    "salmansirFav": "false",
+    "inGame": "true",
+    "captaincyDays": "3"
+  },
+  "ShivThakare": {
+    "profession": "Actor",
+    "age": "28",
+    "friends": ["SajidKhan", "MCStan", "AbduRozik", "NimritKaur", "GoriNagori"],
+    "foes": [],
+    "fanRating": "10",
+    "salmansirFav": "false",
+    "inGame": "true",
+    "captaincyDays": "5",
+    "nominations": "2"
+  },
+  "ShalinBhanot": {
+    "profession": "Actor",
+    "age": "40",
+    "friends": ["TinaDatta", "SumbulTouqeerKhan"],
+    "foes": [],
+    "nominations": "3",
+    "fanRating": "5",
+    "salmansirFav": "false",
+    "inGame": "true",
+    "captaincyDays": "0"
+  },
+  "GautamVig": {
+    "profession": "Actor",
+    "age": "26",
+    "friends": ["SoundaryaSharma", "NimritKaur"],
+    "foes": [],
+    "nominations": "3",
+    "fanRating": "7",
+    "salmansirFav": "false",
+    "inGame": "true",
+    "captaincyDays": "9"
+  },
+  "TinaDatta": {
+    "profession": "Actress",
+    "age": "30",
+    "friends": ["ShalinBhanot"],
+    "foes": [],
+    "nominations": "3",
+    "fanRating": "3",
+    "salmansirFav": "false",
+    "inGame": "true",
+    "captaincyDays": "0"
+  },
+  "SreejitaDe": {
+    "profession": "Actress",
+    "age": "30",
+    "friends": [],
+    "foes": [],
+    "nominations": "1",
+    "fanRating": "3",
+    "salmansirFav": "false",
+    "inGame": "false",
+    "captaincyDays": "0"
+  },
+  "ManyaSingh": {
+    "profession": "Actress",
+    "age": "28",
+    "friends": [],
+    "foes": [],
+    "nominations": "1",
+    "fanRating": "3",
+    "salmansirFav": "false",
+    "inGame": "false",
+    "captaincyDays": "0"
+  },
+  "NimritKaur": {
+    "profession": "Actress",
+    "age": "35",
+    "friends": ["GautumVig", "ShivThakare", "AbduRozik", "SajidKhan"],
+    "foes": [],
+    "nominations": "1",
+    "fanRating": "6",
+    "salmansirFav": "false",
+    "inGame": "true",
+    "captaincyDays": "5"
+  },
+  "SumbulTouqeerKhan": {
+    "profession": "SocialMediaStar",
+    "age": "19",
+    "friends": ["ShalinBhanot"],
+    "foes": ["ArchanaGautam"],
+    "nominations": "3",
+    "fanRating": "7",
+    "salmansirFav": "false",
+    "inGame": "true",
+    "captaincyDays": "0"
+  },
+  "SoundaryaSharma": {
+    "profession": "Actress",
+    "age": "30",
+    "friends": ["GautumVig"],
+    "foes": [],
+    "nominations": "3",
+    "fanRating": "5",
+    "salmansirFav": "false",
+    "inGame": "true",
+    "captaincyDays": "0"
+  },
+  "GoriNagori": {
+    "profession": "SocialMediaStar",
+    "age": "19",
+    "friends": [
+      "SajidKhan",
+      "MCStan",
+      "ShivThakare",
+      "NimritKaur",
+      "AbduRozik"
+    ],
+    "foes": [],
+    "nominations": "4",
+    "fanRating": "2",
+    "salmansirFav": "false",
+    "inGame": "false",
+    "captaincyDays": "0"
+  }
+}
